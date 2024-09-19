@@ -7,6 +7,9 @@ import Welcoming6 from "@/assets/images/welcoming6.png";
 import Welcoming7 from "@/assets/images/welcoming7.png";
 import Welcoming8 from "@/assets/images/welcoming8.png";
 import Welcoming9 from "@/assets/images/welcoming9.png";
+import Welcoming10 from "@/assets/images/welcoming10.png";
+
+import person from "@/assets/icons/person.png";
 
 export const images = {
   Welcoming1,
@@ -18,6 +21,11 @@ export const images = {
   Welcoming7,
   Welcoming8,
   Welcoming9,
+  Welcoming10,
+};
+
+export const icons = {
+  person,
 };
 
 export const Welcoming = [
@@ -44,3 +52,7 @@ export const Welcoming = [
     image: Welcoming9,
   },
 ];
+
+export const data = {
+  Welcoming,
+};
