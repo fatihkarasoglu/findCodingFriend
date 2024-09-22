@@ -10,6 +10,9 @@ import Welcoming9 from "@/assets/images/welcoming9.png";
 import Welcoming10 from "@/assets/images/welcoming10.png";
 
 import person from "@/assets/icons/person.png";
+import email from "@/assets/icons/email.png";
+import lock from "@/assets/icons/lock.png";
+import google from "@/assets/icons/google.png";
 
 export const images = {
   Welcoming1,
@@ -26,6 +29,9 @@ export const images = {
 
 export const icons = {
   person,
+  email,
+  lock,
+  google,
 };
 
 export const Welcoming = [
