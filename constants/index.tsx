@@ -8,11 +8,16 @@ import Welcoming7 from "@/assets/images/welcoming7.png";
 import Welcoming8 from "@/assets/images/welcoming8.png";
 import Welcoming9 from "@/assets/images/welcoming9.png";
 import Welcoming10 from "@/assets/images/welcoming10.png";
+import check from "@/assets/images/check.png";
 
 import person from "@/assets/icons/person.png";
 import email from "@/assets/icons/email.png";
 import lock from "@/assets/icons/lock.png";
 import google from "@/assets/icons/google.png";
+import categories from "@/assets/icons/categories.png";
+import chat from "@/assets/icons/chat.png";
+import home from "@/assets/icons/home.png";
+import profile from "@/assets/icons/profile.png";
 
 export const images = {
   Welcoming1,
@@ -25,6 +30,7 @@ export const images = {
   Welcoming8,
   Welcoming9,
   Welcoming10,
+  check,
 };
 
 export const icons = {
@@ -32,6 +38,10 @@ export const icons = {
   email,
   lock,
   google,
+  categories,
+  chat,
+  home,
+  profile,
 };
 
 export const Welcoming = [
