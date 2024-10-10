@@ -35,3 +35,21 @@ declare interface InputFieldProps extends TextInputProps {
   iconStyle?: string;
   className?: string;
 }
+
+declare interface Project {
+  origin_address: string;
+  destination_address: string;
+  origin_latitude: number;
+  origin_longitude: number;
+  destination_latitude: number;
+  destination_longitude: number;
+  developer_id: number;
+  user_email: string;
+  created_at: string;
+  developer: {
+    first_name: string;
+    last_name: string;
+    rating: number;
+    level: string;
+  };
+}

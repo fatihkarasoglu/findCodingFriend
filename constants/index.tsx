@@ -18,6 +18,8 @@ import categories from "@/assets/icons/categories.png";
 import chat from "@/assets/icons/chat.png";
 import home from "@/assets/icons/home.png";
 import profile from "@/assets/icons/profile.png";
+import to from "@/assets/icons/to.png";
+import point from "@/assets/icons/point.png";
 
 export const images = {
   Welcoming1,
@@ -42,6 +44,8 @@ export const icons = {
   chat,
   home,
   profile,
+  to,
+  point,
 };
 
 export const Welcoming = [
